@@ -14,12 +14,6 @@ This project is a custom **FUSE-based file system** that was implemented in C. I
 - **Efficient Storage Allocation**  
   - Implements a block-based system to manage disk space effectively  
 
-## Installation  
-Ensure you are using **Ubuntu (or another modern Linux system)** and install the required dependencies:  
-```sh
-sudo apt-get install libfuse-dev libbsd-dev pkg-config
-```
-
 ## Compilation & Running
 The following commands are required to run the file system:
 
