@@ -1,4 +1,4 @@
-# file-system 
+# File-System 
 
 ## Description  
 This project is a custom **FUSE-based file system** that was implemented in C. It allows for users to mount a 1MB disk image as a functional file system. The file system supports basic file operations, directories, and large file storage.
